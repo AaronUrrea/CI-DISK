@@ -1,0 +1,7 @@
+clear
+cd cmake-build-debug
+make
+cd bin
+
+./disk $1 >> ../../testScripts/step_1_tests.txt
+./disk_timer $1 >> ../../testScripts/step_2_tests.txt

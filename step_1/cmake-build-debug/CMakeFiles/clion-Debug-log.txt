@@ -1,0 +1,4 @@
+Cannot generate into C:\Users\aaron\OneDrive\Documents\School\2022 Spring\COMP-362\Projects\UrreaAaronProject01\step_1\cmake-build-debug
+It is already used for project \home\aaronurrea\Projects\UrreaAaronProject01\step_1
+
+Please either delete it manually or select another generation directory

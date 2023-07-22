@@ -1,0 +1,4 @@
+/home/aaronurrea/Projects/UrreaAaronProject01/step_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aaronurrea/Projects/UrreaAaronProject01/step_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aaronurrea/Projects/UrreaAaronProject01/step_2/cmake-build-debug/CMakeFiles/disk_timer.dir
+/home/aaronurrea/Projects/UrreaAaronProject01/step_2/cmake-build-debug/CMakeFiles/disk.dir
