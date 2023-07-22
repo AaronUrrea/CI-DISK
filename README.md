@@ -8,15 +8,15 @@ This project focuses on implementing a disk simulator, which will later be trans
 
 ## Table of Contents
 1. [Instructions](#instructions)
-2. [Step 1: Implementation](#step-1-implementation)
-3. [Step 2: Description](#step-2-description)
+2. [Step 1](#step-1)
+3. [Step 2](#step-2)
 
 ## Instructions
 - This project must be implemented on Linux, as it involves Linux-specific methods for drivers and kernel modules.
 - Incremental solutions must be submitted for each step. Submissions including functionality from later steps will be rejected.
 - The provided `CMakeLists.txt` build configuration files can be used for steps 1 and 2. However, for step 3 (the kernel module), the provided `Makefile` must be used instead of `cmake`.
 
-## Step 1: Implementation
+## Step 1: 
 
 ### Description
 Implement a disk simulator that enables reading and writing information using logical linear addresses.
@@ -24,7 +24,7 @@ Implement a disk simulator that enables reading and writing information using lo
 ### Code
 The code for the disk simulator is available in the `disk.zip` archive. It provides the disk geometry's declaration, along with function prototypes that must be implemented. While data structures cannot be modified, you can enhance testing if necessary. Refer to the comments in the code for implementation details.
 
-### Step 2: Description
+### Step 2: 
 
 ### Description
 In this task, you will develop a timer-based tester for the disk simulator implemented in the previous step.
